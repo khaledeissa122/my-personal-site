@@ -449,8 +449,8 @@ section.about-me li,
 }
 .main-contact .contact-form {
   position: absolute;
-  top: 35%;
-  left: 45%;
+  top: 40%;
+  left: 30%;
   transform: translate(-50%, 50%);
   -webkit-transform: translate(-50%, 50%);
   opacity: 0;
