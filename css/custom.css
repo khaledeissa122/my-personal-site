@@ -22,7 +22,7 @@
   }
   .c-share__input:checked ~ .c-share_options {
     width: 18.0625em;
-    height: 12.5em;
+    height: 15.5em;
     border-radius: 0.3125em;
   }
   .c-share__input:checked ~ .c-share_options::before,
@@ -103,7 +103,7 @@
   .c-share_options::before,
   .c-share_options li {
     opacity: 0;
-    transform: translate(1em,-1.875em);
+    transform: translate(2.5em,0.125em);
     /* transform: translateY(-1.875em); */
     /* transform: translateX(-1em); */
     transition: 0s;
