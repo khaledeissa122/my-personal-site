@@ -780,6 +780,9 @@ a:hover{
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
+  svg {
+    width: 50vw;
+  }
   figcaption {
     overflow: hidden;
   }
