@@ -694,6 +694,9 @@ a:hover{
   body {
     background-color: lightblue;
   }
+  svg {
+    width: 50vw;
+  }
   .intro .large li {
     font-size: 30px;
   }
@@ -780,9 +783,7 @@ a:hover{
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  svg {
-    width: 50vw;
-  }
+
   figcaption {
     overflow: hidden;
   }
